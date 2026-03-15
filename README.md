@@ -190,11 +190,6 @@ The following Alzheimer's disease–relevant targets were included:
 - Medicinal chemistry filtering (PAINS and structural alerts)
 - ADMET and toxicity screening
 
----
-
-# Project Status
-
-This repository represents the **computational pipeline** focused on AI-driven Alzheimer's drug discovery.
 
 ---
 
